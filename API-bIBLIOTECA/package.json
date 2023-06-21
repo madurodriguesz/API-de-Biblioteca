@@ -1,0 +1,16 @@
+{
+    "name": "api-biblioteca",
+    "version": "1.0.0",
+    "description": "API de biblioteca em Node.js usando Express",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "author": "Seu Nome",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.17.1",
+      "body-parser": "^1.19.0"
+    }
+  }
+  
